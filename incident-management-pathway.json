@@ -1,0 +1,12 @@
+{
+  "title": "Introduction to Incident Management",
+  "description": "",
+  "icon": "fa-bolt",
+  "courses": [
+    {
+      "course_id": "lab",
+      "title": "Incident Management Lab",
+      "description": "Incident Management Lab"
+    }
+  ]
+} 
